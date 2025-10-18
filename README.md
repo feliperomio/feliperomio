@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Felipe Romio, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS, focado em **C#** e desenvolvimento backend. Tenho conhecimento em **integração com banco de dados** e **consumo de APIs**. Busco evoluir constantemente e aplicar meus conhecimentos em projetos reais. 🚀
+Me chamo Felipe Romio, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS, focado em C# e desenvolvimento backend. Tenho conhecimento em integração com banco de dados e consumo de APIs. Busco evoluir constantemente e aplicar meus conhecimentos em projetos reais. 
 
 
 
